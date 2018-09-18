@@ -1,1 +1,3 @@
-# 1-E-MUSIC
+# Empire Music Bot 
+# discord
+# https://discord.gg/sgqcXbz
